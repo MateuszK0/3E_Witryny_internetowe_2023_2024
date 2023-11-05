@@ -1,0 +1,75 @@
+Karta Pracy
+
+Zad 1
+1 HTML 4.01 | CENTER | CSS:Text-align
+2 HTML 4.01 | BASEFRONT | CSS:color, font-family, font-size
+3 HTML 4.01 | Applet | Object
+4 HTML 4.01 | DIR | UL
+5 HTML 4.01 | Font | CSS:color
+6 HTML 4.01 | Isindex | Input
+7 HTML 4.01 | Menu | UL
+8 HTML 4.01 | S | CSS:text-decoration
+9 HTML | 4.01 Strike | CSS:text-decoration
+10 HTML | 4.01 U | CSS:text-decoration
+
+Zad 2
+- Wersja 5.0 upraszcza zapis znaczników w wersi 4.01 zapisy były bardziej skomplikowane
+- HTML został stworzony przez W3C oraz WHATWG a wersja 4.01 już nie
+- W Wersji 5.0 Można tworzyć proste skrypty na gotowych tagach ale w wersji 4.01 juz nie
+
+Zad 3
+- https://www.w3.org/TR/1998/REC-html40-19980424/
+- https://www.w3.org/TR/html401/
+- https://www.w3.org/TR/2011/WD-html5-20110405/
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Zad 1
+Witryna internetowa - zbiór stron internetowych i adresów URL które są umieszczone na jednym serwerze | alley.com
+Portal internetowy - Strona informacyjna która oferuje np. skrzynke odbiorczą lub Hosting | facebook.com
+Sklep internetowy - Strona internetowa sklepu przez, którą można zamawiać przedmioty z danego sklepu | nike.com
+Blog tekstowy - Strona gdzie ludzie publikują swoje wpisy | humansofnewyork.com
+Wideoblog - W stylu Blogu testowego jednak znaczną większość stanowią filmy autora | youtube.com
+
+Zad 2
+Portal internetowy
+Ponieważ oferuje różne
+
+Zad 3
+</znacznik> tekst</znacznik> | Poprawne
+<atrybut = "wartość"> znacznik </atrybut> | Błędne
+<tekst> znacznik </tekst> | poprawne
+<znacznik tekst </znacznik> | poprawne
+<znacznik atrybut = "wartość"> tekst </znacznik> | Poprawne
+
+Zadanie 4
+rok 1995 HTML 2.0 pierwsze wydanie HTML
+rok 1996 HTML 3.2 Większa ilość atrybutów w HTML
+rok 1997 HTML 4.0 obsługi wielu skryptó
+rok 2008 HTML 5.0 dodanie znaczników multimedialnych
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Podsumowanie
+
+Zad 1
+A
+
+Zad 2
+A
+
+Zad 3
+C
+
+Zad 4
+C
+
+Zad 5
+C
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Zadanie Egzaminacyjne
+
+|Nazwa   |   | opis |                                                                     | zastosowanie |
+Wordpress    to system zarządzania treścia pierwotnie zaprojektowany do obsługi blogów     Może pomóc w wyglądzie strony. stylu pisania opisów itp.
+
+Visual Studio Code | edytor kodu żródłowego stworzony przez Microsoft | Pomoc w pisaniu kodu dla strony w łatwiejszy sposób 
+
