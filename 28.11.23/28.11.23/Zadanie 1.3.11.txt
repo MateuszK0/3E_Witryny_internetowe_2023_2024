@@ -1,0 +1,5 @@
+Znacznik | Opis
+<Body>    Wszystkie kody znajdujące się w tym znaczniku pojawiają się na stronie
+<ul>      Definiuje nieuporządkowaną listę
+<li>      określa element listy
+<ol>      znacznik ol reprezentuje uporządkowaną listę elementów na stronie internetowej

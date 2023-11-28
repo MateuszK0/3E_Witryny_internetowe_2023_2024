@@ -1,0 +1,12 @@
+[08:54] 21E Jakub Tetelewski
+Znacznik   |  Atrybut	|	Wartość Atrybutu
+
+<a>	      href		URL lub ścieżka do docelowego zasobu
+
+<font>	      color		Kolor tekstu
+
+<p>	      align		left, right, center, justify (do wyrównywania tekstu)
+
+<meta>	      charset		Określa zestaw znaków dokumentu (np. "UTF-8")
+
+<body>	      bgcolor		Kolor tła strony
